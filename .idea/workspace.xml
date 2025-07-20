@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BetterChat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capp/templates/capp/chatform.html" afterDir="false" />
-    </list>
+    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="init and the web-design" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +37,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,8 +87,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1753041185079</updated>
-      <workItem from="1753041186113" duration="663000" />
+      <workItem from="1753041186113" duration="938000" />
     </task>
+    <task id="LOCAL-00001" summary="init and the web-design">
+      <option name="closed" value="true" />
+      <created>1753041905550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753041905550</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init and the web-design">
+      <option name="closed" value="true" />
+      <created>1753042020583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753042020583</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +121,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init and the web-design" />
+    <option name="LAST_COMMIT_MESSAGE" value="init and the web-design" />
   </component>
 </project>
