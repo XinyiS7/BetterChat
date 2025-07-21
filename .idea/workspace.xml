@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="chat window progress" />
+    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="chat window progress">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,6 +96,8 @@
       <updated>1753041185079</updated>
       <workItem from="1753041186113" duration="938000" />
       <workItem from="1753043789181" duration="2411000" />
+      <workItem from="1753057889439" duration="253000" />
+      <workItem from="1753091589525" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="init and the web-design">
       <option name="closed" value="true" />
