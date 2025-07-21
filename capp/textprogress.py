@@ -1,0 +1,1 @@
+from sumy.parsers.plaintext import PlaintextParserfrom sumy.summarizers.lsa import LsaSummarizerimport jiebafrom sumy.nlp.tokenizers import Tokenizer as BaseTokenizerdef make_abstract():    # TODO    test_abs = "you are now running a test, here should be the text abstract."    return test_abs
