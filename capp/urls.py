@@ -1,1 +1,1 @@
-# BetterChat/capp/urls.pyfrom django.urls import pathfrom . import viewsurlpatterns = [    path('',views.index,name='index'),]
+# BetterChat/capp/urls.pyfrom django.urls import pathfrom . import viewsurlpatterns = [    path('',views.process_with_submission,name='process_with_submission'),]

@@ -1,0 +1,1 @@
+# runtest.pyimport osimport djangoos.environ.setdefault("DJANGO_SETTINGS_MODULE", "BetterChat.settings")django.setup()from capp import chatlogic# 调用你要测试的函数chatlogic.send_to_ds([    {"role": "system", "content": "You are a helpful assistant"},    {"role": "user", "content": "Hello"},])

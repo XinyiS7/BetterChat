@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="chat window progress">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capp/chatlogic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capp/textprogress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83ce8b31-847e-480d-9cd4-ccc7511d1665" name="Changes" comment="making chatlogic" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +127,7 @@
       <workItem from="1753041186113" duration="938000" />
       <workItem from="1753043789181" duration="2411000" />
       <workItem from="1753057889439" duration="253000" />
-      <workItem from="1753091589525" duration="5363000" />
+      <workItem from="1753091589525" duration="5730000" />
     </task>
     <task id="LOCAL-00001" summary="init and the web-design">
       <option name="closed" value="true" />
@@ -183,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753091644634</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="making chatlogic">
+      <option name="closed" value="true" />
+      <created>1753097316057</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753097316057</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +207,8 @@
     <MESSAGE value="class for usr input and chat history" />
     <MESSAGE value="prompt list" />
     <MESSAGE value="chat window progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="chat window progress" />
+    <MESSAGE value="making chatlogic" />
+    <option name="LAST_COMMIT_MESSAGE" value="making chatlogic" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BetterChat$chatlogic.coverage" NAME="chatlogic Coverage Results" MODIFIED="1753096921060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/capp" />
